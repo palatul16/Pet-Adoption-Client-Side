@@ -23,7 +23,7 @@
 
 ## Firebase Authentication System:-
 
-- FFirebase Authentication aims to make building secure authentication systems easy while improving the sign-in and onboarding experience for users. It provides an end-to-end identity solution, supporting email and password accounts, phone auth, Google, Twitter, Facebook, and GitHub login, and more.
+- Firebase Authentication aims to make building secure authentication systems easy while improving the sign-in and onboarding experience for users. It provides an end-to-end identity solution, supporting email and password accounts, phone auth, Google, Twitter, Facebook, and GitHub login, and more.
 
 
 ## Integration with Social Media Platforms: 
