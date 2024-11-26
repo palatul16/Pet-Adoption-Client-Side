@@ -18,22 +18,22 @@
 
 ## JWT Authentication:-
 
--Any API that requires authentication can easily switch over to JWT's authorization. With JWT authorization, you get a user-based authentication. Once the user is authenticated, the user gets a secure token that they can use on all systems. The management of the user (and therefore the token) is centralized.
+- Any API that requires authentication can easily switch over to JWT authorization. With JWT authorization, you get a user-based authentication system. Once authenticated, the user receives a secure token they can use across all systems. The management of the user (and therefore the token) is centralized.
 
 
 ## Firebase Authentication System:-
 
--Firebase Authentication aims to make building secure authentication systems easy, while improving the sign-in and onboarding experience for end users. It provides an end-to-end identity solution, supporting email and password accounts, phone auth, and Google, Twitter, Facebook, and GitHub login, and more.
+- FFirebase Authentication aims to make building secure authentication systems easy while improving the sign-in and onboarding experience for users. It provides an end-to-end identity solution, supporting email and password accounts, phone auth, Google, Twitter, Facebook, and GitHub login, and more.
 
 
 ## Integration with Social Media Platforms: 
 
--Recognizing the power of social media in pet adoption, your website is seamlessly integrated with popular platforms. Users can easily share profiles of pets they find interesting, spreading the word and increasing the chances of successful adoptions through wider online networks.
+- Recognizing the power of social media in pet adoption, your website is seamlessly integrated with popular platforms. Users can easily share profiles of pets they find interesting, spreading the word and increasing the chances of successful adoptions through wider online networks.
 
 
 ## Responsive Design for Mobile Accessibility: 
 
--Understanding the diverse ways users access the internet, your website prioritizes a responsive design. Whether visitors are using a desktop, tablet, or mobile device, the site adapts to different screen sizes, ensuring a consistent and enjoyable experience for users on any platform. This responsiveness increases the accessibility of your pet adoption platform to a broader audience.
+- Understanding the diverse ways users access the internet, your website prioritizes a responsive design. Whether visitors are using a desktop, tablet, or mobile device, the site adapts to different screen sizes, ensuring a consistent and enjoyable experience for users on any platform. This responsiveness increases the accessibility of your pet adoption platform to a broader audience.
 
 ---
 
